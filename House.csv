@@ -1,0 +1,1028 @@
+,Bedrooms,Bathrooms,Location,Size,Status,Facing,Type,Price
+0,3,3,Poranki,1587,Ready to move,West,Apartment,55.5
+1,2,2,Poranki,1450,Ready to move,None,Apartment,48.0
+2,2,2,Kankipadu,1290,Under Construction,NorthEast,Independent House,50.0
+3,2,2,Poranki,1200,Ready to move,None,Apartment,40.0
+4,3,3,Gannavaram,1663,Ready to move,East,Apartment,59.86
+5,3,3,Gunadala,1500,Ready to move,None,Independent Floor,56.0
+6,3,3,Gollapudi,2062,Ready to move,None,Apartment,89.0
+7,2,2,Enikepadu,1250,Ready to move,None,Apartment,39.0
+8,2,2,Benz Circle,1350,Ready to move,East,Independent House,59.0
+9,3,3,Vidhyadharpuram,1600,Under Construction,West,Independent Floor,95.0
+10,6,7,Penamaluru,3700,Ready to move,None,Independent House,110.00000000000001
+11,0,0,Kankipadu,1782,Resale,None,Residential Plot,16.83
+12,0,0,Poranki,1800,Resale,West,Residential Plot,33.0
+13,0,0,Kankipadu,1500,Resale,None,Residential Plot,20.0
+14,3,3,Benz Circle,1543,Under Construction,East,Apartment,77.15
+15,0,0,Poranki,1647,New,None,Residential Plot,420.0
+16,3,3,Gannavaram,1650,Ready to move,None,Apartment,72.0
+17,0,0,Edupugallu,1800,New,West,Residential Plot,30.0
+18,2,2,Payakapuram,1000,Ready to move,None,Independent House,56.0
+19,3,3,Benz Circle,2109,Under Construction,East,Apartment,103.0
+20,0,0,Tadigadapa,2700,New,NorthEast,Residential Plot,60.0
+21,3,3,Currency Nagar,1460,Ready to move,None,Apartment,75.0
+22,2,2,Poranki,1168,Ready to move,East,Apartment,41.95
+23,0,0,Enikepadu,1719,New,None,Residential Plot,30.36
+24,3,3,Gannavaram,1560,Ready to move,None,Apartment,74.0
+25,2,2,Nunna,1400,Ready to move,None,Independent House,57.0
+26,3,3,Kanuru,1512,Under Construction,East,Apartment,68.04
+27,0,0,Penamaluru,1551,New,East,Residential Plot,33.62
+28,3,3,Sri Ramachandra Nagar,2000,Ready to move,None,Apartment,105.0
+29,2,2,Gannavaram,1266,Ready to move,East,Apartment,44.13
+30,3,3,Ramavarapadu,2000,Ready to move,None,Apartment,65.0
+31,2,2,Kanuru,1150,Under Construction,East,Independent House,48.0
+32,0,0,Kankipadu,1620,Resale,East,Residential Plot,22.5
+33,2,2,Payakapuram,900,Under Construction,None,Independent House,50.0
+34,2,2,Kesarapalli,1174,Ready to move,None,Apartment,34.0
+35,3,3,Bharathi Nagar,1875,Under Construction,None,Independent Floor,125.0
+36,0,0,Edupugallu,1647,New,East,Residential Plot,33.85
+37,0,0,Gannavaram,1800,Resale,None,Residential Plot,17.0
+38,0,0,Vijayawada Road,1080,New,None,Residential Plot,9.6
+39,3,3,Sri Ramachandra Nagar,2000,Ready to move,None,Apartment,108.0
+40,2,0,Kankipadu,1106,Under Construction,None,Independent House,51.67
+41,2,0,Gannavaram,1120,Ready to move,None,Villa,35.84
+42,1,1,Gannavaram,661,Ready to move,None,Apartment,28.0
+43,2,2,Edupugallu,1100,Ready to move,None,Apartment,22.0
+44,2,2,Penamaluru,1350,Ready to move,None,Apartment,59.99
+45,0,0,Gosala,1773,New,NorthEast,Independent House,23.64
+46,0,0,Poranki,1647,New,East,Residential Plot,42.09
+47,0,0,Kankipadu,1350,New,East,Residential Plot,24.0
+48,0,0,Poranki,1548,Resale,East,Residential Plot,35.3
+49,0,0,Kankipadu,1800,New,None,Residential Plot,28.0
+50,0,0,Gannavaram,1485,New,None,Residential Plot,27.0
+51,0,0,Kankipadu,2700,New,East,Residential Plot,39.0
+52,0,0,Gudavalli,1192,New,None,Residential Plot,69.0
+53,2,20222,Kankipadu,1200,Under Construction,None,Residential Plot,49.99
+54,2,20242,Penamaluru,1350,Under Construction,None,Independent House,59.99
+55,2,20232,Edupugallu,1350,Under Construction,None,Independent House,59.99
+56,2,2,Madhuranagar,1005,Ready to move,None,Independent House,42.0
+57,3,20242,Kankipadu,1260,Under Construction,None,Apartment,10.4
+58,2,2,currency nagar,800,Ready to move,None,Villa,27.0
+59,2,2,Payakapuram,900,Ready to move,None,Apartment,25.75
+60,3,3,Gollapudi,2280,Ready to move,None,Apartment,60.0
+61,2,2,Gannavaram,950,Ready to move,None,Apartment,26.5
+62,2,2,Poranki,1100,Under Construction,West,Villa,57.0
+63,0,0,Kankipadu,1119,New,None,Independent House,12.43
+64,2,2,Poranki,1023,Ready to move,None,Residential Plot,30.0
+65,2,1,Machilipatnam,1500,Ready to move,None,Apartment,40.0
+66,2,2,Kanuru,1150,Under Construction,East,Apartment,48.0
+67,2,20232,Nunna,1800,Under Construction,None,Independent House,75.0
+68,3,3,Tadigadapa Donka Road,1700,Ready to move,None,Independent House,76.5
+69,3,3,currency nagar,1450,Ready to move,None,Apartment,61.98
+70,0,0,Payakapuram,200,Resale,East,Apartment,62.0
+71,0,0,Edupugallu,1647,Resale,East,Residential Plot,35.0
+72,3,3,Currency Nagar,1500,Under Construction,None,Residential Plot,71.25
+73,0,0,Kanuru,1503,New,West,Apartment,31.73
+74,2,1,Ibrahimpatnam,410,Ready to move,None,Residential Plot,15.0
+75,0,0,Ramavarapadu Ring,200,New,None,Independent House,70.0
+76,3,3,Sri Ramachandra Nagar,1500,Ready to move,None,Residential Plot,75.0
+77,0,0,Penamaluru,1548,Resale,East,Apartment,35.3
+78,0,0,Gannavaram,1500,New,East,Residential Plot,28.0
+79,2,2,Gollapudi1,1050,Ready to move,None,Residential Plot,33.0
+80,2,2,Ibrahimpatnam,1215,Ready to move,None,Apartment,36.45
+81,0,0,SURAMPALLI,900,New,NorthEast,Apartment,5.49
+82,2,20222,Penamaluru,1300,Under Construction,None,Residential Plot,49.99
+83,2,2,Kankipadu,1280,Under Construction,None,Independent House,44.99
+84,0,0,Kankipadu,1500,New,East,Independent House,19.99
+85,0,0,AGIRIPALLI,1350,New,None,Residential Plot,5.23
+86,2,0,Kankipadu,1024,Under Construction,None,Residential Plot,47.84
+87,3,0,Gannavaram,1720,Ready to move,None,Independent House,55.04
+88,0,0,Penamaluru,3150,New,West,Villa,71.75
+89,2,2,PNT Colony,1213,Ready to move,None,Apartment,49.0
+90,3,20233,Subba Rao Colony 2nd Cross Road,2332,Under Construction,None,Residential Plot,140.0
+91,3,0,Penamaluru,2399,Under Construction,None,Apartment,119.0
+92,3,0,Poranki,2300,Ready to move,None,Apartment,120.0
+93,3,20243,Kankipadu,2966,Under Construction,None,Apartment,140.0
+94,0,0,Kankipadu,5281,New,None,Apartment,58.67
+95,4,0,Penamaluru,2935,Ready to move,None,Villa,161.0
+96,3,3,currency nagar,2120,Ready to move,None,Residential Plot,85.0
+97,2,2,Currency Nagar,1242,Ready to move,None,Apartment,85.0
+98,0,0,Kesarapalli,1800,New,None,Independent Floor,60.0
+99,3,3,Labbipet,2300,Ready to move,None,Independent House,150.0
+100,2,2,Benz Circle,1200,Under Construction,East,Residential Plot,58.8
+101,2,2,Kanuru,1250,Under Construction,East,Apartment,59.4
+102,2,2,Kanuru,1203,Under Construction,None,Apartment,54.13
+103,2,2,Kanuru,1187,Under Construction,None,Apartment,56.4
+104,0,0,Edupugallu,2706,New,East,Apartment,46.96
+105,0,0,Penamaluru,1350,New,East,Apartment,28.5
+106,0,0,Penamaluru,1548,New,West,Residential Plot,32.68
+107,0,0,Penamaluru,1647,New,West,Residential Plot,32.94
+108,0,0,Poranki,2250,New,NorthEast,Residential Plot,50.0
+109,0,0,Edupugallu,1647,New,East,Residential Plot,34.77
+110,0,0,Tadigadapa,1503,New,East,Residential Plot,31.73
+111,0,0,Penamaluru,1647,New,East,Residential Plot,34.77
+112,0,0,Kankipadu,6192,New,SouthEast,Residential Plot,92.87
+113,0,0,Poranki,1503,New,West,Residential Plot,31.73
+114,0,0,Poranki,1647,New,West,Residential Plot,32.94
+115,0,0,Edupugallu,1800,New,East,Residential Plot,31.0
+116,0,0,Kanuru,2250,New,NorthEast,Residential Plot,50.0
+117,0,0,Edupugallu,1647,New,West,Residential Plot,32.94
+118,0,0,Kankipadu,1650,New,East,Residential Plot,23.79
+119,0,0,Edupugallu,2250,New,NorthEast,Residential Plot,50.0
+120,0,0,Kankipadu,1650,New,East,Residential Plot,23.79
+121,0,0,Edupugallu,2250,New,NorthEast,Residential Plot,50.0
+122,0,0,Poranki,2250,New,NorthEast,Residential Plot,50.0
+123,0,0,Edupugallu,1647,New,East,Residential Plot,34.77
+124,0,0,Tadigadapa,1503,New,East,Residential Plot,31.73
+125,0,0,Penamaluru,1647,New,East,Residential Plot,34.77
+126,0,0,Tadigadapa,1647,New,East,Residential Plot,34.77
+127,0,0,Penamaluru,1500,New,East,Residential Plot,30.06
+128,0,0,Poranki,1647,New,East,Residential Plot,34.77
+129,0,0,Poranki,1647,New,West,Residential Plot,42.09
+130,0,0,Edupugallu,2706,New,East,Residential Plot,46.96
+131,0,0,Kankipadu,1647,New,East,Residential Plot,31.11
+132,0,0,Kankipadu,1944,New,East,Residential Plot,36.72
+133,2,2,Sri Ramachandra Nagar,1460,Ready to move,None,Residential Plot,76.01
+134,3,0,Penamaluru,2014,Under Construction,None,Residential Plot,100.0
+135,3,0,Penamaluru,2012,Under Construction,None,Apartment,90.51
+136,3,0,Penamaluru,2161,Under Construction,None,Apartment,108.0
+137,3,0,Penamaluru,2680,Ready to move,None,Apartment,147.0
+138,4,0,Penamaluru,3050,Ready to move,None,Apartment,167.0
+139,3,0,Penamaluru,2300,Ready to move,None,Apartment,126.0
+140,4,0,Penamaluru,3040,Ready to move,None,Apartment,167.0
+141,4,0,Penamaluru,2545,Ready to move,None,Apartment,139.0
+142,3,0,Penamaluru,2270,Ready to move,None,Apartment,124.0
+143,4,0,Penamaluru,2995,Ready to move,None,Apartment,164.0
+144,3,0,Penamaluru,2490,Ready to move,None,Apartment,136.0
+145,4,0,Penamaluru,2460,Ready to move,None,Apartment,135.0
+146,3,0,Penamaluru,2500,Ready to move,None,Apartment,137.0
+147,3,0,Penamaluru,2710,Ready to move,None,Apartment,149.0
+148,4,0,Penamaluru,3421,Ready to move,None,Apartment,188.0
+149,3,3,Sri Ramachandra Nagar,1460,Ready to move,None,Apartment,78.0
+150,3,3,Sri Ramachandra Nagar,2110,Ready to move,None,Apartment,114.99999999999999
+151,0,0,SURAMPALLI,864,New,NorthEast,Apartment,4.32
+152,0,0,Vijayawada Nuzvidu Road,1080,New,North,Apartment,5.4
+153,0,0,Kankipadu,1468,New,None,Residential Plot,16.31
+154,0,0,Kankipadu,1637,New,None,Villa,18.19
+155,0,0,Kankipadu,1180,New,None,Residential Plot,13.11
+156,0,0,Kankipadu,5046,New,None,Residential Plot,56.06
+157,0,0,Kankipadu,1411,New,None,Residential Plot,15.68
+158,0,0,Kankipadu,1561,New,None,Residential Plot,17.34
+159,0,0,Kankipadu,1351,New,None,Residential Plot,15.01
+160,0,0,Kankipadu,4481,New,None,Residential Plot,49.78
+161,0,0,Kankipadu,1319,New,None,Residential Plot,14.65
+162,0,0,Kankipadu,1746,New,None,Residential Plot,19.39
+163,0,0,Kankipadu,1699,New,None,Residential Plot,18.88
+164,0,0,Kankipadu,2912,New,None,Residential Plot,32.35
+165,0,0,Kankipadu,1723,New,None,Residential Plot,19.13
+166,0,0,Kanuru,1548,Resale,None,Residential Plot,35.3
+167,0,0,Penamaluru,1260,New,East,Residential Plot,1.95
+168,0,0,Kankipadu,2430,New,East,Residential Plot,62.1
+169,0,0,Edupugallu,1746,New,East,Residential Plot,3.58
+170,4,4,Poranki,3300,Ready to move,None,Residential Plot,160.0
+171,2,20222,Kankipadu,1200,Under Construction,None,Residential Plot,45.0
+172,2,20232,Kankipadu,1500,Under Construction,None,Residential Plot,44.99
+173,2,20232,Kankipadu,1500,Under Construction,None,Villa,43.0
+174,2,20222,Edupugallu,1750,Under Construction,None,Independent House,49.99
+175,2,20242,Kesarapalle,1201,Under Construction,None,Independent House,46.85
+176,3,20233,Nunna,3600,Under Construction,None,Independent House,105.0
+177,2,20222,Nunna,900,Under Construction,None,Independent House,26.0
+178,2,20232,Penamaluru,900,Under Construction,None,Apartment,36.0
+179,2,2,Andhra Prabha Colony Road,900,Ready to move,None,Villa,68.0
+180,0,0,AGIRIPALLI,1080,New,NorthEast,Independent House,4.2
+181,0,0,AGIRIPALLI,1080,New,East,Independent House,4.2
+182,0,0,Nuzvid To Vijayawada Road,1080,New,North,Independent House,5.4
+183,0,0,Nuzvid Road,1116,New,West,Residential Plot,5.58
+184,0,0,AGIRIPALLI,1080,New,South,Residential Plot,4.2
+185,0,0,AGIRIPALLI,990,New,NorthEast,Residential Plot,4.95
+186,0,0,SURAMPALLI,1080,New,NorthEast,Residential Plot,6.6
+187,0,0,SURAMPALLI,900,New,NorthEast,Residential Plot,4.5
+188,0,0,AGIRIPALLI,900,New,West,Residential Plot,3.5
+189,0,0,AGIRIPALLI,1080,New,NorthWest,Residential Plot,4.2
+190,0,0,AGIRIPALLI,1080,New,East,Residential Plot,4.2
+191,0,0,AGIRIPALLI,1080,New,NorthEast,Residential Plot,4.2
+192,0,0,AGIRIPALLI,1080,New,North,Residential Plot,4.2
+193,0,0,AGIRIPALLI,1080,New,South,Residential Plot,4.2
+194,0,0,Bandar Road,900,New,NorthEast,Residential Plot,4.5
+195,0,0,Bandar Road,1080,New,East,Residential Plot,5.4
+196,0,0,Bandar Road,1080,New,NorthEast,Residential Plot,5.4
+197,0,0,AGIRIPALLI,990,New,East,Residential Plot,4.95
+198,0,0,AGIRIPALLI,1080,New,North,Villa,4.2
+199,0,0,AGIRIPALLI,1080,New,SouthEast,Residential Plot,4.2
+200,0,0,AGIRIPALLI,1080,New,NorthEast,Villa,4.2
+201,0,0,AGIRIPALLI,1080,New,NorthWest,Residential Plot,4.2
+202,0,0,Vijayawada Nuzvidu Road,1080,New,East,Villa,5.4
+203,0,0,Vijayawada Road,990,New,West,Residential Plot,4.95
+204,0,0,Vijayawada Road,990,New,East,Residential Plot,4.95
+205,0,0,Vijayawada Road,990,New,NorthEast,Residential Plot,4.95
+206,0,0,AGIRIPALLI,900,New,East,Residential Plot,3.5
+207,0,0,SURAMPALLI,1080,New,NorthEast,Residential Plot,5.4
+208,0,0,AGIRIPALLI,1080,New,SouthEast,Residential Plot,4.2
+209,0,0,AGIRIPALLI,1080,New,East,Residential Plot,4.2
+210,0,0,AGIRIPALLI,900,New,NorthEast,Residential Plot,3.5
+211,0,0,Nuzividu,1080,New,NorthWest,Residential Plot,5.4
+212,0,0,AGIRIPALLI,1080,New,West,Residential Plot,5.4
+213,0,0,AGIRIPALLI,1080,New,South,Residential Plot,4.2
+214,0,0,Gannavaram,1800,New,NorthEast,Residential Plot,7.0
+215,0,0,AGIRIPALLI,1800,New,NorthEast,Residential Plot,7.0
+216,0,0,AGIRIPALLI,1080,New,NorthEast,Residential Plot,4.8
+217,0,0,AGIRIPALLI,1080,New,East,Residential Plot,4.2
+218,0,0,AGIRIPALLI,1080,New,NorthEast,Residential Plot,5.4
+219,0,0,AGIRIPALLI,1080,New,NorthEast,Residential Plot,4.2
+220,0,0,AGIRIPALLI,1080,New,East,Residential Plot,5.4
+221,0,0,AGIRIPALLI,990,New,East,Residential Plot,3.85
+222,0,0,AGIRIPALLI,1080,New,North,Residential Plot,4.2
+223,0,0,AGIRIPALLI,1080,New,East,Residential Plot,4.2
+224,0,0,AGIRIPALLI,990,New,West,Residential Plot,3.85
+225,0,0,AGIRIPALLI,900,New,SouthEast,Residential Plot,3.5
+226,0,0,AGIRIPALLI,1080,New,East,Residential Plot,4.2
+227,0,0,AGIRIPALLI,1080,New,North,Residential Plot,4.2
+228,0,0,AGIRIPALLI,1080,New,South,Residential Plot,4.2
+229,0,0,AGIRIPALLI,990,New,NorthEast,Residential Plot,3.85
+230,0,0,AGIRIPALLI,1080,New,NorthWest,Residential Plot,4.2
+231,0,0,AGIRIPALLI,900,New,North,Residential Plot,3.5
+232,0,0,AGIRIPALLI,900,New,East,Residential Plot,3.5
+233,0,0,AGIRIPALLI,990,New,South,Residential Plot,3.85
+234,0,0,AGIRIPALLI,990,New,North,Residential Plot,3.85
+235,0,0,AGIRIPALLI,1080,New,East,Residential Plot,4.2
+236,0,0,AGIRIPALLI,1080,New,West,Residential Plot,4.2
+237,0,0,AGIRIPALLI,1080,New,South,Residential Plot,4.2
+238,0,0,AGIRIPALLI,1080,New,North,Residential Plot,4.2
+239,0,0,AGIRIPALLI,1080,New,NorthEast,Residential Plot,4.2
+240,0,0,AGIRIPALLI,1080,New,West,Residential Plot,4.2
+241,0,0,Vijayawada Road,1080,New,North,Residential Plot,4.2
+242,0,0,AGIRIPALLI,900,New,NorthEast,Residential Plot,3.5
+243,0,0,AGIRIPALLI,1080,New,East,Residential Plot,4.2
+244,0,0,AGIRIPALLI,1080,New,South,Residential Plot,4.2
+245,0,0,G Konduru,2178,New,None,Residential Plot,5.5
+246,2,2,Ibrahimpatnam,1215,Ready to move,None,Residential Plot,36.45
+247,3,3,Ibrahimpatnam,1625,Ready to move,None,Residential Plot,48.75
+248,3,3,Ibrahimpatnam,1715,Ready to move,None,Residential Plot,51.45
+249,0,0,Nunna,1200,Resale,None,Residential Plot,25.0
+250,0,0,Penamaluru,1080,New,None,Residential Plot,14.4
+251,0,0,Kanchikacherla,5662,New,None,Residential Plot,13.0
+252,0,0,Nuzividu,1080,New,SouthEast,Apartment,5.4
+253,0,0,AGIRIPALLI,1080,New,North,Apartment,5.4
+254,0,0,AGIRIPALLI,1080,New,West,Apartment,5.4
+255,0,0,AGIRIPALLI,1080,New,South,Residential Plot,5.4
+256,0,0,AGIRIPALLI,1080,New,East,Residential Plot,5.4
+257,0,0,AGIRIPALLI,1080,New,SouthWest,Residential Plot,5.4
+258,0,0,AGIRIPALLI,1080,New,SouthEast,Residential Plot,5.4
+259,0,0,AGIRIPALLI,1080,New,NorthWest,Residential Plot,5.4
+260,0,0,AGIRIPALLI,1080,New,NorthEast,Residential Plot,5.4
+261,0,0,SURAMPALLI,900,New,East,Residential Plot,4.5
+262,0,0,SURAMPALLI,900,New,NorthEast,Residential Plot,4.5
+263,0,0,SURAMPALLI,900,New,NorthEast,Residential Plot,5.5
+264,0,0,SURAMPALLI,1800,New,NorthEast,Residential Plot,9.0
+265,0,0,Nuzividu,1080,New,SouthWest,Residential Plot,5.4
+266,0,0,Nuzividu,1080,New,NorthEast,Residential Plot,5.4
+267,0,0,Nuzividu,1080,New,West,Residential Plot,5.4
+268,0,0,Nuzividu,1080,New,East,Residential Plot,5.4
+269,0,0,Nuzividu,1080,New,North,Residential Plot,5.4
+270,0,0,SURAMPALLI,1080,New,NorthWest,Residential Plot,5.4
+271,0,0,Nuzividu,1080,New,South,Villa,5.4
+272,0,0,SURAMPALLI,1080,New,West,Residential Plot,5.4
+273,0,0,SURAMPALLI,1080,New,South,Residential Plot,5.4
+274,0,0,SURAMPALLI,1080,New,NorthEast,Residential Plot,5.4
+275,0,0,SURAMPALLI,1080,New,East,Residential Plot,5.4
+276,0,0,AGIRIPALLI,1080,New,East,Residential Plot,5.4
+277,0,0,AGIRIPALLI,1080,New,NorthEast,Residential Plot,5.4
+278,0,0,AGIRIPALLI,1080,New,South,Residential Plot,5.4
+279,0,0,AGIRIPALLI,1080,New,West,Residential Plot,5.4
+280,0,0,Nuzvid To Vijayawada Road,1080,New,South,Residential Plot,5.4
+281,0,0,Vijayawada Road,1080,New,South,Residential Plot,9.6
+282,0,0,Vijayawada Road,900,New,NorthWest,Residential Plot,8.0
+283,0,0,Vijayawada Road,1080,New,NorthEast,Residential Plot,9.6
+284,0,0,AGIRIPALLI,1080,New,North,Residential Plot,4.2
+285,0,0,Kanchikacherla,1017,New,None,Residential Plot,4.95
+286,0,0,Nuzividu,9500,Resale,None,Residential Plot,16.0
+287,0,0,Mylavaram,900,New,None,Residential Plot,3.6
+288,0,0,Tadigadapa,1080,New,None,Residential Plot,19.2
+289,2,2,Kankipadu,1440,Ready to move,None,Residential Plot,42.0
+290,2,20232,Penamaluru,1100,Under Construction,None,Residential Plot,59.99
+291,2,20212,Kankipadu,1350,Under Construction,None,Residential Plot,35.0
+292,0,0,G Konduru,900,New,None,Residential Plot,4.5
+293,0,0,Punadipadu,1215,New,None,Residential Plot,18.22
+294,0,0,Kanchikacherla,1017,New,None,Residential Plot,5.0
+295,0,0,Penamaluru,1593,New,West,Residential Plot,18.0
+296,0,0,Jaggayyapet,9585,Resale,None,Independent House,9.99
+297,0,0,Kankipadu,1350,New,East,Independent House,16.5
+298,0,0,Kankipadu,1350,New,None,Independent Floor,16.5
+299,0,0,Penamaluru,1350,New,East,Residential Plot,19.99
+300,2,20232,Kankipadu,1500,Under Construction,None,Residential Plot,44.99
+301,0,0,MylavaramKuntamukkalaVellaturuVijayawada Road,900,New,None,Residential Plot,4.99
+302,0,0,Penamaluru,1350,New,East,Residential Plot,18.0
+303,0,0,Jaggayyapet,4500,Resale,None,Residential Plot,9.9
+304,3,2,Kankipadu,1260,Ready to move,None,Residential Plot,140.0
+305,0,0,Chennai Vijayawada Highway,533,Resale,East,Residential Plot,53.3
+306,0,0,Gollapudi1,1350,New,None,Residential Plot,22.5
+307,0,0,Penamaluru,1350,New,East,Independent House,24.99
+308,0,0,Gollapudi1,1350,New,East,Residential Plot,16.29
+309,0,0,Penamaluru,1110,New,East,Residential Plot,22.99
+310,0,0,Kankipadu,1350,New,East,Residential Plot,14.99
+311,0,0,Penamaluru,1107,New,None,Villa,23.0
+312,0,0,Kankipadu,1650,New,East,Residential Plot,9.99
+313,3,20233,Guru Nanak Colony,1780,Under Construction,None,Residential Plot,124.0
+314,0,0,Kankipadu,200,New,West,Residential Plot,13.99
+315,3,3,Rajiv Bhargav Colony,1818,Ready to move,None,Residential Plot,90.0
+316,0,0,Tadigadapa Main Road,900,New,None,Residential Plot,15.99
+317,0,0,Kanchikacherla,900,New,None,Residential Plot,2.69
+318,2,2,currency nagar,1350,Ready to move,None,Residential Plot,52.0
+319,0,0,Ramavarapadu Ring,1350,New,None,Residential Plot,16.5
+320,3,3,ramavarappadu,1500,Ready to move,None,Apartment,45.99
+321,2,2,currency nagar,1200,Ready to move,None,Residential Plot,42.0
+322,1,2,Gunadala,1151,Ready to move,NorthEast,Apartment,34.5
+323,0,0,currency nagar,1773,New,None,Residential Plot,90.0
+324,0,0,Kanuru,1305,New,None,Residential Plot,54.39
+325,3,3,ramavarappadu,1350,Ready to move,None,Apartment,40.0
+326,3,3,Gannavaram,1905,Ready to move,None,Residential Plot,66.0
+327,3,3,Gannavaram,1400,Ready to move,None,Apartment,49.0
+328,2,2,Nidamanuru,960,Ready to move,None,Apartment,35.0
+329,3,3,Nidamanuru,1549,Ready to move,None,Apartment,63.0
+330,3,3,Nidamanuru,1549,Ready to move,None,Residential Plot,63.0
+331,2,20232,Kankipadu,1200,Under Construction,None,Residential Plot,54.0
+332,2,20232,Kankipadu,1200,Under Construction,None,Apartment,57.0
+333,3,3,Gannavaram,1485,Ready to move,None,Apartment,46.0
+334,3,3,Gannavaram,1485,Ready to move,None,Apartment,46.0
+335,3,3,Gannavaram,1485,Ready to move,None,Apartment,46.0
+336,3,3,Gannavaram,1485,Ready to move,None,Apartment,46.0
+337,3,3,Gannavaram,1485,Ready to move,None,Apartment,46.0
+338,3,3,Gannavaram,1485,Ready to move,None,Villa,46.0
+339,3,3,Gannavaram,1485,Ready to move,None,Independent Floor,46.0
+340,3,3,Gannavaram,1485,Ready to move,None,Apartment,46.0
+341,3,3,Gannavaram,1485,Ready to move,None,Apartment,46.0
+342,3,3,Gannavaram,1485,Ready to move,None,Apartment,46.0
+343,3,3,Gannavaram,1485,Ready to move,None,Apartment,46.0
+344,3,3,Gannavaram,1485,Ready to move,None,Apartment,46.0
+345,3,3,Gannavaram,1485,Ready to move,None,Apartment,46.0
+346,2,2,Nidamanuru,960,Ready to move,None,Apartment,37.0
+347,2,2,Nidamanuru,960,Ready to move,None,Apartment,37.0
+348,2,20212,Vuyyuru,1594,Under Construction,None,Apartment,35.0
+349,4,20224,Poranki,2650,Under Construction,None,Apartment,105.0
+350,2,2,Mangalagiri,1260,Ready to move,None,Apartment,47.0
+351,2,2,Gudavalli,1100,Ready to move,None,Apartment,57.5
+352,2,2,Ramavarapadu,900,Ready to move,None,Apartment,40.0
+353,2,2,Kankipadu,970,Ready to move,None,Apartment,43.0
+354,3,4,Edupugallu,2650,Ready to move,None,Apartment,105.0
+355,3,20233,Subba Rao Colony 2nd Cross Road,2532,Under Construction,None,Independent House,140.0
+356,3,3,Auto Nagar,1600,Ready to move,None,Villa,57.0
+357,3,3,Gannavaram,1485,Ready to move,None,Apartment,46.0
+358,3,3,Gannavaram,1485,Ready to move,None,Independent House,46.0
+359,3,3,Gannavaram,1485,Ready to move,None,Independent House,46.0
+360,3,3,Gannavaram,1438,Ready to move,None,Independent House,46.0
+361,3,3,Gannavaram,1485,Ready to move,None,Villa,46.0
+362,3,3,Gannavaram,1485,Ready to move,None,Apartment,46.0
+363,3,3,Gannavaram,1485,Ready to move,None,Apartment,46.0
+364,3,3,Gannavaram,1485,Ready to move,None,Apartment,46.0
+365,3,3,Gannavaram,1495,Ready to move,None,Apartment,46.0
+366,3,3,Gannavaram,1495,Ready to move,None,Apartment,46.0
+367,3,3,Gannavaram,1495,Ready to move,None,Apartment,46.0
+368,3,3,Gannavaram,1495,Ready to move,None,Apartment,46.0
+369,3,3,Gannavaram,1495,Ready to move,None,Apartment,46.0
+370,2,2,Nidamanuru,960,Ready to move,None,Apartment,35.0
+371,2,2,Nidamanuru,960,Ready to move,None,Apartment,35.0
+372,3,3,Nidamanuru,1549,Ready to move,None,Apartment,63.0
+373,3,3,Nidamanuru,1549,Ready to move,None,Apartment,63.0
+374,3,2,Nidamanuru,1549,Ready to move,None,Apartment,63.0
+375,2,3,Nidamanuru,960,Ready to move,None,Apartment,35.0
+376,2,2,Nidamanuru,960,Ready to move,None,Apartment,37.0
+377,3,3,Nidamanuru,1549,Ready to move,None,Apartment,63.0
+378,3,4,Nidamanuru,1549,Under Construction,None,Apartment,63.0
+379,3,3,Nidamanuru,1549,Ready to move,None,Apartment,63.0
+380,2,2,Nidamanuru,960,Ready to move,None,Apartment,35.0
+381,3,3,Gannavaram,1905,Ready to move,None,Apartment,66.67
+382,2,20222,Punadipadu,1485,Under Construction,None,Apartment,52.0
+383,2,20222,Punadipadu,1485,Under Construction,None,Apartment,52.0
+384,2,20222,Punadipadu,1485,Under Construction,None,Apartment,52.0
+385,2,20222,Punadipadu,1485,Under Construction,None,Apartment,52.0
+386,2,20222,Punadipadu,1485,Under Construction,None,Apartment,52.0
+387,2,20222,Punadipadu,1485,Under Construction,None,Apartment,52.0
+388,2,20222,Punadipadu,1485,Under Construction,None,Apartment,52.0
+389,2,2,Gannavaram,1905,Ready to move,None,Independent House,66.67
+390,2,2,Punadipadu,1485,Ready to move,None,Independent House,52.0
+391,2,20222,Punadipadu,1485,Under Construction,None,Independent House,52.0
+392,3,3,Nidamanuru,1549,Ready to move,None,Independent House,63.0
+393,3,3,Nidamanuru,1549,Ready to move,None,Independent House,63.0
+394,3,3,Nidamanuru,1549,Ready to move,None,Independent Floor,63.0
+395,3,3,Gannavaram,2000,Ready to move,None,Independent House,70.0
+396,3,3,Gannavaram,1600,Ready to move,None,Apartment,56.0
+397,2,2,Nidamanuru,960,Ready to move,None,Independent House,37.0
+398,3,3,Nidamanuru,1549,Ready to move,None,Independent House,63.0
+399,3,3,Nidamanuru,1549,Ready to move,None,Apartment,63.0
+400,3,3,Nidamanuru,1549,Ready to move,None,Apartment,63.0
+401,2,2,Nidamanuru,960,Ready to move,None,Apartment,35.0
+402,2,2,Nidamanuru,960,Ready to move,None,Apartment,37.0
+403,3,3,Nidamanuru,1549,Ready to move,None,Apartment,63.0
+404,2,2,Nidamanuru,960,Ready to move,None,Apartment,35.0
+405,3,3,Kanuru,1459,Ready to move,None,Apartment,62.0
+406,2,2,Gannavaram,1081,Ready to move,None,Apartment,31.34
+407,3,3,Gannavaram,1204,Ready to move,None,Apartment,34.91
+408,0,0,Milk Factory Road,1350,New,East,Apartment,2.1
+409,0,0,Gudavalli,1647,New,East,Apartment,30.2
+410,0,0,Punadipadu,1800,New,West,Apartment,24.0
+411,0,0,Bandar Road,1800,New,North,Apartment,24.0
+412,0,0,Bandar Road,1350,New,NorthEast,Apartment,18.0
+413,0,0,Bandar Road,1350,New,East,Apartment,18.0
+414,0,0,Bandar Road,1350,New,West,Apartment,18.0
+415,0,0,Punadipadu,1350,New,North,Residential Plot,18.0
+416,0,0,Punadipadu,900,New,East,Residential Plot,12.0
+417,0,0,Punadipadu,900,New,West,Residential Plot,12.0
+418,0,0,Punadipadu,900,New,North,Residential Plot,12.0
+419,0,0,Telaprolu,280,New,West,Residential Plot,15.4
+420,0,0,Gudavalli,1647,New,East,Residential Plot,31.0
+421,0,0,Punadipadu,1485,New,East,Residential Plot,18.97
+422,0,0,MylavaramKuntamukkalaVellaturuVijayawada Road,1791,New,East,Residential Plot,3.9
+423,0,0,Edupugallu,1818,New,East,Residential Plot,35.35
+424,0,0,Edupugallu,1962,New,East,Residential Plot,38.15
+425,0,0,Edupugallu,1710,New,West,Residential Plot,31.35
+426,0,0,Gudavalli,1548,New,East,Residential Plot,30.1
+427,0,0,Gudavalli,1647,New,East,Residential Plot,32.02
+428,0,0,Edupugallu,1503,New,West,Residential Plot,30.06
+429,0,0,Edupugallu,1467,New,West,Residential Plot,29.34
+430,0,0,Gudavalli,1647,New,East,Residential Plot,30.19
+431,0,0,Edupugallu,1557,New,West,Residential Plot,31.14
+432,0,0,Edupugallu,1548,New,West,Residential Plot,30.96
+433,0,0,Edupugallu,1512,New,West,Residential Plot,30.24
+434,0,0,Edupugallu,1512,New,West,Residential Plot,30.24
+435,0,0,Edupugallu,1710,New,West,Residential Plot,34.2
+436,0,0,Edupugallu,1692,New,West,Residential Plot,33.84
+437,0,0,Edupugallu,1683,New,West,Residential Plot,33.66
+438,0,0,Edupugallu,1647,New,West,Residential Plot,32.94
+439,0,0,Edupugallu,1566,New,West,Residential Plot,31.32
+440,0,0,Edupugallu,1728,New,West,Residential Plot,34.56
+441,0,0,Edupugallu,1719,New,West,Residential Plot,34.38
+442,0,0,Edupugallu,12240,New,East,Residential Plot,250.99999999999997
+443,0,0,Gudavalli,1944,New,East,Residential Plot,35.64
+444,0,0,Gudavalli,1548,New,East,Residential Plot,28.38
+445,0,0,Gudavalli,1944,New,East,Residential Plot,35.64
+446,0,0,Gudavalli,1764,New,East,Residential Plot,32.34
+447,0,0,Gudavalli,1557,New,East,Residential Plot,28.54
+448,0,0,Gudavalli,1836,New,West,Residential Plot,32.43
+449,0,0,Gudavalli,1647,New,East,Residential Plot,30.19
+450,0,0,Gudavalli,1818,New,East,Residential Plot,33.33
+451,0,0,Gudavalli,1917,New,East,Residential Plot,22.75
+452,0,0,Gudavalli,1818,New,East,Residential Plot,33.33
+453,0,0,Gudavalli,1557,New,East,Residential Plot,28.54
+454,0,0,Gudavalli,1647,New,West,Residential Plot,20.09
+455,0,0,Gudavalli,1818,New,NorthEast,Residential Plot,40.4
+456,0,0,Gudavalli,1503,New,East,Residential Plot,27.55
+457,0,0,Kankipadu,1413,New,East,Residential Plot,22.92
+458,0,0,Kankipadu,1503,New,West,Residential Plot,26.38
+459,0,0,Edupugallu,1683,New,East,Residential Plot,30.85
+460,0,0,Kanigiri Gurunadham Street,187,New,East,Residential Plot,2.5
+461,0,0,Edupugallu,4077,New,East,Residential Plot,54.36
+462,0,0,Edupugallu,3996,New,None,Residential Plot,53.28
+463,0,0,Edupugallu,1620,New,East,Residential Plot,33.3
+464,0,0,Edupugallu,3366,New,NorthEast,Residential Plot,44.88
+465,0,0,Edupugallu,2439,New,NorthEast,Residential Plot,32.52
+466,0,0,Edupugallu,1989,New,NorthWest,Residential Plot,26.51
+467,0,0,Edupugallu,8172,New,North,Residential Plot,108.0
+468,0,0,Edupugallu,12240,New,West,Residential Plot,163.0
+469,0,0,Edupugallu,2475,New,NorthWest,Residential Plot,33.0
+470,0,0,Edupugallu,1728,New,East,Residential Plot,35.52
+471,0,0,Edupugallu,2304,New,NorthWest,Residential Plot,30.72
+472,0,0,Edupugallu,4455,New,NorthEast,Residential Plot,59.4
+473,0,0,Edupugallu,1719,New,East,Residential Plot,35.33
+474,0,0,Edupugallu,3942,New,NorthEast,Residential Plot,50.37
+475,0,0,Edupugallu,1872,New,East,Residential Plot,383.0
+476,0,0,Edupugallu,3942,New,NorthEast,Residential Plot,50.37
+477,0,0,Edupugallu,3483,New,NorthEast,Residential Plot,463.99999999999994
+478,0,0,Edupugallu,2655,New,SouthEast,Residential Plot,35.4
+479,0,0,Edupugallu,2340,New,SouthEast,Residential Plot,31.2
+480,0,0,Edupugallu,1899,New,SouthEast,Residential Plot,25.32
+481,0,0,Edupugallu,1647,New,None,Residential Plot,33.85
+482,0,0,Edupugallu,1800,New,SouthEast,Residential Plot,24.0
+483,0,0,Edupugallu,491,New,None,Residential Plot,58.92
+484,0,0,Edupugallu,3339,New,NorthWest,Residential Plot,44.52
+485,0,0,Edupugallu,3213,New,NorthWest,Residential Plot,42.84
+486,0,0,Edupugallu,3168,New,NorthWest,Residential Plot,42.24
+487,0,0,Edupugallu,3150,New,NorthWest,Residential Plot,42.0
+488,0,0,Edupugallu,3024,New,NorthWest,Residential Plot,40.32
+489,0,0,Edupugallu,1440,New,West,Residential Plot,28.8
+490,0,0,Edupugallu,1395,New,West,Residential Plot,18.6
+491,0,0,Edupugallu,2637,New,SouthWest,Residential Plot,35.16
+492,0,0,Edupugallu,2502,New,SouthWest,Residential Plot,33.36
+493,0,0,Edupugallu,1872,New,SouthWest,Residential Plot,24.96
+494,0,0,Edupugallu,1701,New,SouthWest,Residential Plot,22.68
+495,0,0,Edupugallu,2745,New,SouthEast,Residential Plot,36.6
+496,0,0,Edupugallu,1647,New,West,Residential Plot,32.94
+497,0,0,Edupugallu,1566,New,West,Residential Plot,31.32
+498,0,0,Edupugallu,1557,New,West,Residential Plot,31.14
+499,0,0,Edupugallu,1548,New,West,Residential Plot,30.96
+500,0,0,Edupugallu,1467,New,West,Residential Plot,29.34
+501,0,0,Edupugallu,1458,New,West,Residential Plot,29.16
+502,0,0,Edupugallu,12240,New,None,Residential Plot,244.0
+503,0,0,Edupugallu,1818,New,None,Residential Plot,36.36
+504,0,0,Edupugallu,1674,New,East,Residential Plot,22.32
+505,0,0,Edupugallu,1755,New,None,Residential Plot,35.1
+506,0,0,Edupugallu,1746,New,None,Residential Plot,34.92
+507,0,0,Edupugallu,1557,New,West,Residential Plot,31.14
+508,0,0,Edupugallu,1719,New,West,Residential Plot,34.38
+509,0,0,Edupugallu,1710,New,West,Residential Plot,34.2
+510,0,0,Edupugallu,1692,New,West,Residential Plot,33.84
+511,0,0,Edupugallu,2439,New,East,Residential Plot,50.13
+512,0,0,Edupugallu,1809,New,East,Residential Plot,37.18
+513,0,0,Edupugallu,1620,New,East,Residential Plot,33.3
+514,0,0,Edupugallu,1773,New,East,Residential Plot,36.44
+515,0,0,Edupugallu,1674,New,East,Residential Plot,34.41
+516,0,0,Edupugallu,1953,New,East,Residential Plot,40.14
+517,0,0,Edupugallu,3996,New,East,Residential Plot,82.14
+518,0,0,Edupugallu,1809,New,East,Residential Plot,37.18
+519,0,0,Edupugallu,1773,New,East,Residential Plot,36.44
+520,0,0,Edupugallu,2763,New,East,Residential Plot,56.79
+521,0,0,Edupugallu,2520,New,East,Residential Plot,51.8
+522,0,0,Edupugallu,1809,New,East,Residential Plot,37.18
+523,0,0,Edupugallu,270,New,East,Residential Plot,49.95
+524,0,0,Edupugallu,2088,New,East,Residential Plot,42.92
+525,0,0,Edupugallu,3168,New,NorthWest,Residential Plot,65.12
+526,0,0,Edupugallu,3150,New,NorthWest,Residential Plot,64.75
+527,0,0,Edupugallu,1809,New,East,Residential Plot,37.18
+528,0,0,Edupugallu,3024,New,NorthWest,Residential Plot,62.16
+529,0,0,Edupugallu,2475,New,NorthWest,Residential Plot,50.87
+530,0,0,Edupugallu,2304,New,NorthEast,Residential Plot,47.36
+531,0,0,Edupugallu,4455,New,NorthEast,Residential Plot,91.57
+532,0,0,Edupugallu,3942,New,NorthEast,Residential Plot,81.03
+533,0,0,Edupugallu,3483,New,NorthEast,Residential Plot,71.59
+534,0,0,Edupugallu,3366,New,NorthEast,Residential Plot,69.19
+535,0,0,Edupugallu,2439,New,East,Residential Plot,50.13
+536,0,0,Edupugallu,1989,New,NorthEast,Residential Plot,40.88
+537,0,0,Edupugallu,8172,New,East,Residential Plot,167.0
+538,0,0,Edupugallu,12240,New,East,Residential Plot,250.99999999999997
+539,0,0,Edupugallu,4077,New,East,Residential Plot,83.8
+540,0,0,Edupugallu,3996,New,East,Residential Plot,82.14
+541,0,0,Edupugallu,2763,New,East,Residential Plot,56.79
+542,0,0,Edupugallu,2520,New,East,Residential Plot,51.8
+543,0,0,Edupugallu,2430,New,East,Residential Plot,49.95
+544,0,0,Edupugallu,4077,New,East,Residential Plot,83.8
+545,0,0,Edupugallu,891,New,West,Residential Plot,17.82
+546,0,0,Edupugallu,2142,New,None,Residential Plot,44.03
+547,0,0,Edupugallu,4077,New,East,Residential Plot,83.8
+548,0,0,Edupugallu,1953,New,East,Residential Plot,40.14
+549,0,0,Edupugallu,3996,New,East,Residential Plot,82.14
+550,0,0,Edupugallu,2088,New,East,Residential Plot,42.92
+551,0,0,Edupugallu,1566,New,West,Residential Plot,31.32
+552,0,0,Edupugallu,2763,New,East,Residential Plot,56.79
+553,0,0,Edupugallu,1548,New,West,Residential Plot,30.96
+554,0,0,Edupugallu,2520,New,East,Residential Plot,51.8
+555,0,0,Edupugallu,1467,New,None,Residential Plot,29.34
+556,0,0,Edupugallu,1467,New,West,Residential Plot,29.34
+557,0,0,Edupugallu,1512,New,West,Residential Plot,30.24
+558,0,0,Edupugallu,1557,New,West,Residential Plot,31.14
+559,0,0,Edupugallu,1602,New,West,Residential Plot,32.04
+560,0,0,Edupugallu,1647,New,West,Residential Plot,32.94
+561,0,0,Edupugallu,4077,New,East,Residential Plot,83.8
+562,0,0,Edupugallu,1692,New,None,Residential Plot,33.84
+563,0,0,Edupugallu,3996,New,East,Residential Plot,82.14
+564,0,0,Edupugallu,2763,New,East,Residential Plot,56.79
+565,0,0,Edupugallu,2520,New,East,Residential Plot,51.8
+566,0,0,Edupugallu,2520,New,East,Residential Plot,50.4
+567,0,0,Edupugallu,2340,New,SouthWest,Residential Plot,48.1
+568,0,0,Edupugallu,2430,New,East,Residential Plot,49.95
+569,0,0,Edupugallu,4419,New,NorthWest,Residential Plot,90.83
+570,0,0,Edupugallu,1953,New,East,Residential Plot,40.14
+571,0,0,Edupugallu,3213,New,NorthWest,Residential Plot,66.04
+572,0,0,Edupugallu,1818,New,West,Residential Plot,36.36
+573,0,0,Edupugallu,1818,New,None,Residential Plot,36.36
+574,0,0,Edupugallu,1872,New,None,Residential Plot,37.44
+575,0,0,Edupugallu,1872,New,None,Residential Plot,37.44
+576,0,0,Edupugallu,2169,New,None,Residential Plot,44.58
+577,0,0,Edupugallu,2304,New,NorthEast,Residential Plot,51.2
+578,0,0,Edupugallu,2529,New,None,Residential Plot,56.2
+579,0,0,Gudavalli,1674,New,None,Residential Plot,30.19
+580,0,0,Gudavalli,1953,New,None,Residential Plot,35.8
+581,0,0,Edupugallu,1503,New,West,Residential Plot,30.06
+582,0,0,Edupugallu,1746,New,West,Residential Plot,34.92
+583,0,0,Gosala,1584,New,None,Residential Plot,26.4
+584,0,0,Gudavalli,1647,New,None,Residential Plot,30.19
+585,0,0,Gosala,1278,New,East,Residential Plot,170.0
+586,0,0,Gosala,1503,New,None,Residential Plot,20.04
+587,0,0,Gosala,1602,New,None,Residential Plot,21.36
+588,0,0,Edupugallu,1674,New,None,Residential Plot,22.32
+589,0,0,Gosala,1197,New,East,Residential Plot,15.96
+590,0,0,Gosala,1278,New,East,Residential Plot,17.04
+591,0,0,Gosala,1206,New,East,Residential Plot,16.08
+592,0,0,Gosala,1413,New,None,Residential Plot,18.05
+593,0,0,Gosala,1350,New,None,Residential Plot,18.0
+594,0,0,Edupugallu,2430,New,East,Residential Plot,32.4
+595,0,0,Edupugallu,1773,New,East,Residential Plot,23.64
+596,0,0,Edupugallu,8172,New,East,Residential Plot,108.0
+597,0,0,Gosala,1197,New,None,Residential Plot,15.96
+598,0,0,Edupugallu,12240,New,East,Residential Plot,163.0
+599,0,0,Gudavalli,1557,New,East,Residential Plot,28.54
+600,0,0,Edupugallu,1647,New,North,Residential Plot,32.94
+601,0,0,Gudavalli,1782,New,West,Residential Plot,31.48
+602,0,0,Gudavalli,1647,New,West,Residential Plot,29.09
+603,0,0,Gudavalli,1818,New,East,Residential Plot,33.33
+604,0,0,Gudavalli,1620,New,None,Residential Plot,28.62
+605,0,0,Edupugallu,1440,New,West,Residential Plot,19.2
+606,0,0,Edupugallu,2340,New,East,Residential Plot,48.1
+607,0,0,Edupugallu,2142,New,East,Residential Plot,44.03
+608,0,0,Edupugallu,1728,New,West,Residential Plot,34.56
+609,0,0,Edupugallu,3942,New,East,Residential Plot,81.03
+610,0,0,Edupugallu,3213,New,None,Residential Plot,66.04
+611,0,0,Edupugallu,2142,New,West,Residential Plot,42.84
+612,0,0,Edupugallu,3366,New,NorthEast,Residential Plot,46.88
+613,0,0,Edupugallu,1746,New,West,Residential Plot,34.92
+614,0,0,Edupugallu,1395,New,West,Residential Plot,27.9
+615,0,0,Edupugallu,3942,New,NorthEast,Residential Plot,87.6
+616,0,0,Edupugallu,3213,New,NorthEast,Residential Plot,71.4
+617,0,0,Edupugallu,12240,New,East,Residential Plot,163.0
+618,0,0,Edupugallu,1647,New,East,Residential Plot,33.85
+619,0,0,Gudavalli,1836,New,West,Residential Plot,32.43
+620,0,0,Gudavalli,1980,New,East,Residential Plot,36.3
+621,0,0,Ramavarapadu Ring,1350,New,North,Residential Plot,20.25
+622,0,0,Kankipadu,1503,New,East,Residential Plot,19.2
+623,0,0,Edupugallu,2034,New,West,Residential Plot,27.12
+624,0,0,Edupugallu,1440,New,West,Residential Plot,28.8
+625,0,0,Edupugallu,1683,New,West,Residential Plot,22.44
+626,0,0,Edupugallu,1395,New,West,Residential Plot,18.6
+627,0,0,Edupugallu,1998,New,None,Residential Plot,41.07
+628,0,0,Edupugallu,1953,New,West,Residential Plot,39.06
+629,0,0,Edupugallu,2520,New,West,Residential Plot,50.4
+630,0,0,Edupugallu,2088,New,West,Residential Plot,41.76
+631,0,0,Edupugallu,1872,New,East,Residential Plot,38.48
+632,0,0,Edupugallu,1557,New,East,Residential Plot,32.0
+633,0,0,Edupugallu,1602,New,East,Residential Plot,32.93
+634,0,0,Edupugallu,1494,New,East,Residential Plot,30.71
+635,0,0,Edupugallu,1512,New,East,Residential Plot,31.08
+636,0,0,Edupugallu,174,New,East,Residential Plot,32.19
+637,0,0,Edupugallu,1467,New,East,Residential Plot,30.15
+638,0,0,Edupugallu,1800,New,West,Residential Plot,36.0
+639,0,0,Edupugallu,293,New,North,Residential Plot,52.74
+640,0,0,Edupugallu,2142,New,East,Residential Plot,44.03
+641,0,0,Edupugallu,1908,New,North,Residential Plot,38.88
+642,0,0,Edupugallu,1548,New,East,Residential Plot,31.82
+643,0,0,Edupugallu,1494,New,East,Residential Plot,30.71
+644,0,0,Edupugallu,1863,New,North,Residential Plot,37.26
+645,0,0,Edupugallu,1746,New,None,Residential Plot,35.89
+646,0,0,Edupugallu,1809,New,East,Residential Plot,37.18
+647,0,0,Edupugallu,3942,New,East,Residential Plot,87.6
+648,0,0,Edupugallu,1773,New,East,Residential Plot,23.64
+649,0,0,Edupugallu,3213,New,East,Residential Plot,71.4
+650,0,0,Edupugallu,1647,New,East,Residential Plot,33.85
+651,0,0,Edupugallu,1467,New,East,Residential Plot,30.15
+652,0,0,Edupugallu,1647,New,West,Residential Plot,32.94
+653,0,0,Edupugallu,1746,New,East,Residential Plot,35.89
+654,0,0,Edupugallu,1746,New,East,Residential Plot,35.89
+655,0,0,Edupugallu,1908,New,SouthWest,Residential Plot,42.4
+656,0,0,Edupugallu,1818,New,West,Residential Plot,37.37
+657,0,0,Edupugallu,174,New,East,Residential Plot,34.8
+658,0,0,Edupugallu,1746,New,East,Residential Plot,35.89
+659,0,0,Edupugallu,2088,New,None,Residential Plot,42.92
+660,0,0,Edupugallu,1818,New,West,Residential Plot,36.36
+661,0,0,Edupugallu,1746,New,East,Residential Plot,35.89
+662,0,0,Edupugallu,1647,New,East,Residential Plot,33.85
+663,0,0,Benz Circle,2187,New,None,Residential Plot,44.95
+664,0,0,Benz Circle,2187,New,None,Residential Plot,44.95
+665,0,0,Benz Circle,1863,New,None,Residential Plot,38.29
+666,0,0,Benz Circle,1746,New,None,Residential Plot,34.92
+667,0,0,Edupugallu,1818,New,None,Residential Plot,37.37
+668,0,0,Benz Circle,1647,New,None,Residential Plot,33.85
+669,0,0,Edupugallu,1674,New,West,Residential Plot,33.48
+670,0,0,Benz Circle,1944,New,None,Residential Plot,38.88
+671,0,0,Benz Circle,2502,New,None,Residential Plot,51.43
+672,0,0,Edupugallu,1899,New,None,Residential Plot,37.98
+673,0,0,Gudavalli,1719,New,None,Residential Plot,31.51
+674,0,0,Edupugallu,1908,New,East,Residential Plot,39.22
+675,0,0,Edupugallu,1647,New,West,Residential Plot,32.94
+676,0,0,Benz Circle,2745,New,East,Residential Plot,56.42
+677,0,0,Edupugallu,1809,New,None,Residential Plot,37.18
+678,0,0,Gudavalli,162,New,None,Residential Plot,25.75
+679,0,0,Gudavalli,1647,New,East,Residential Plot,30.19
+680,0,0,Edupugallu,2745,New,West,Residential Plot,61.0
+681,0,0,Gosala,1278,New,NorthWest,Residential Plot,16.33
+682,0,0,Gosala,279,New,NorthWest,Residential Plot,20.47
+683,0,0,Gosala,1602,New,East,Residential Plot,21.36
+684,0,0,Gosala,1278,New,NorthWest,Residential Plot,16.33
+685,0,0,Gosala,1602,New,None,Residential Plot,21.36
+686,0,0,Gosala,1278,New,None,Residential Plot,16.33
+687,0,0,Gosala,1278,New,None,Residential Plot,16.33
+688,0,0,Gosala,1269,New,None,Residential Plot,16.21
+689,0,0,Gosala,1206,New,East,Residential Plot,16.08
+690,0,0,Gudavalli,183,New,East,Residential Plot,29.28
+691,0,0,Edupugallu,2385,New,East,Residential Plot,49.02
+692,0,0,Edupugallu,174,New,East,Residential Plot,32.19
+693,0,0,Edupugallu,183,New,East,Residential Plot,33.85
+694,0,0,Edupugallu,200,New,East,Residential Plot,37.0
+695,0,0,Edupugallu,196,New,East,Residential Plot,36.26
+696,0,0,Edupugallu,250,New,West,Residential Plot,45.0
+697,0,0,Edupugallu,1746,New,None,Residential Plot,32.0
+698,0,0,Penamaluru,900,New,None,Residential Plot,25.0
+699,0,0,Pamarru,1350,New,East,Residential Plot,9.75
+700,0,0,Kankipadu,1566,New,West,Residential Plot,27.49
+701,0,0,Punadipadu,1350,New,West,Residential Plot,17.25
+702,0,0,Punadipadu,900,New,North,Residential Plot,11.5
+703,0,0,Punadipadu,900,New,North,Residential Plot,11.5
+704,0,0,Punadipadu,900,New,West,Residential Plot,11.5
+705,0,0,Punadipadu,3150,New,East,Residential Plot,40.25
+706,0,0,Punadipadu,3150,New,West,Residential Plot,40.25
+707,0,0,Punadipadu,3150,New,South,Residential Plot,40.25
+708,0,0,Punadipadu,3150,New,North,Residential Plot,40.25
+709,0,0,Punadipadu,2700,New,West,Residential Plot,34.5
+710,0,0,Punadipadu,2700,New,South,Residential Plot,34.5
+711,0,0,Punadipadu,2250,New,East,Residential Plot,28.75
+712,0,0,Punadipadu,2250,New,West,Residential Plot,28.75
+713,0,0,Punadipadu,2250,New,South,Residential Plot,28.75
+714,0,0,Punadipadu,2250,New,North,Residential Plot,28.75
+715,0,0,Punadipadu,1800,New,East,Residential Plot,23.0
+716,0,0,Punadipadu,1800,New,West,Residential Plot,23.0
+717,0,0,Punadipadu,1800,New,South,Residential Plot,23.0
+718,0,0,Punadipadu,1647,New,East,Residential Plot,21.04
+719,0,0,Punadipadu,1800,New,North,Residential Plot,23.0
+720,0,0,Punadipadu,1647,New,West,Residential Plot,21.04
+721,0,0,Punadipadu,1647,New,South,Residential Plot,21.04
+722,0,0,Punadipadu,1647,New,North,Residential Plot,21.04
+723,0,0,Punadipadu,1350,New,East,Residential Plot,17.25
+724,0,0,Punadipadu,1350,New,West,Residential Plot,17.25
+725,0,0,Punadipadu,1350,New,South,Residential Plot,17.25
+726,0,0,Punadipadu,1350,New,North,Residential Plot,17.25
+727,0,0,Punadipadu,900,New,East,Residential Plot,11.5
+728,0,0,Punadipadu,900,New,West,Residential Plot,11.5
+729,0,0,Punadipadu,900,New,South,Residential Plot,11.5
+730,0,0,Punadipadu,900,New,North,Residential Plot,11.5
+731,0,0,Punadipadu,1800,New,North,Residential Plot,23.0
+732,0,0,Punadipadu,1647,New,North,Residential Plot,21.04
+733,0,0,Punadipadu,1350,New,North,Residential Plot,17.25
+734,0,0,Punadipadu,900,New,North,Residential Plot,11.5
+735,0,0,Punadipadu,1800,New,West,Residential Plot,23.0
+736,0,0,Punadipadu,1647,New,North,Residential Plot,21.04
+737,0,0,Punadipadu,1350,New,North,Residential Plot,17.25
+738,0,0,Punadipadu,900,New,North,Residential Plot,11.5
+739,0,0,Punadipadu,864,New,East,Residential Plot,10.0
+740,0,0,Punadipadu,2250,New,West,Residential Plot,28.75
+741,0,0,Punadipadu,2700,New,West,Residential Plot,34.5
+742,0,0,Punadipadu,1800,New,West,Residential Plot,23.0
+743,0,0,Punadipadu,1647,New,West,Residential Plot,21.04
+744,0,0,Punadipadu,1350,New,West,Residential Plot,17.25
+745,0,0,Punadipadu,900,New,None,Residential Plot,11.5
+746,0,0,Punadipadu,3150,New,North,Residential Plot,40.25
+747,0,0,Punadipadu,2700,New,North,Residential Plot,34.5
+748,0,0,Punadipadu,2250,New,North,Residential Plot,28.75
+749,0,0,Punadipadu,1800,New,North,Residential Plot,23.0
+750,0,0,Punadipadu,1647,New,North,Residential Plot,21.04
+751,0,0,Punadipadu,1350,New,North,Residential Plot,17.25
+752,2,2,Penamaluru,1500,Ready to move,None,Residential Plot,59.99
+753,2,20212,Satyanarayanapuram Main Road,931,Under Construction,None,Residential Plot,55.0
+754,3,3,Tadigadapa,1750,Ready to move,None,Residential Plot,64.0
+755,2,2,Ajit Singh Nagar,1100,Ready to move,None,Residential Plot,37.4
+756,4,4,Gollapudi1,1800,Ready to move,None,Residential Plot,119.0
+757,2,2,Ajit Singh Nagar,1100,Ready to move,None,Residential Plot,38.0
+758,2,20232,Penamaluru,1215,Under Construction,None,Residential Plot,39.0
+759,2,20222,Pedapulipaka Tadigadapa Road,900,Under Construction,None,Independent House,32.0
+760,2,20232,Ajit Singh Nagar,1200,Under Construction,None,Apartment,36.0
+761,0,0,Gudavalli,1818,New,East,Apartment,35.35
+762,0,0,Gudavalli,1719,New,None,Apartment,31.51
+763,0,0,Edupugallu,1395,New,None,Independent House,27.9
+764,0,0,Edupugallu,1890,New,None,Apartment,37.8
+765,0,0,Edupugallu,1467,New,West,Independent House,29.16
+766,0,0,Edupugallu,1458,New,West,Independent House,29.16
+767,0,0,Edupugallu,1440,New,West,Apartment,28.8
+768,0,0,Kankipadu,2700,New,North,Residential Plot,50.7
+769,0,0,Kankipadu,1503,New,None,Residential Plot,54.0
+770,0,0,Edupugallu,1944,New,None,Residential Plot,25.92
+771,0,0,Edupugallu,1971,New,None,Residential Plot,26.28
+772,0,0,Edupugallu,2016,New,None,Residential Plot,26.88
+773,0,0,Edupugallu,2034,New,West,Residential Plot,27.12
+774,0,0,Edupugallu,2052,New,West,Residential Plot,26.22
+775,0,0,Edupugallu,2097,New,West,Residential Plot,26.22
+776,0,0,Edupugallu,1881,New,None,Residential Plot,25.08
+777,0,0,Edupugallu,1890,New,None,Residential Plot,25.2
+778,0,0,Edupugallu,3996,New,East,Residential Plot,53.28
+779,0,0,Edupugallu,2763,New,East,Residential Plot,36.84
+780,0,0,Edupugallu,280,New,East,Residential Plot,33.6
+781,0,0,Edupugallu,2142,New,East,Residential Plot,44.03
+782,0,0,Gudavalli,1503,New,East,Residential Plot,27.55
+783,0,0,Gudavalli,1557,New,East,Residential Plot,28.54
+784,0,0,Edupugallu,2763,New,None,Residential Plot,36.84
+785,0,0,Edupugallu,1935,New,None,Residential Plot,25.8
+786,0,0,Edupugallu,280,New,None,Residential Plot,33.6
+787,0,0,Gudavalli,2187,New,NorthWest,Residential Plot,48.6
+788,0,0,Edupugallu,3942,New,NorthEast,Residential Plot,50.37
+789,0,0,Gudavalli,1953,New,NorthWest,Residential Plot,43.4
+790,0,0,Edupugallu,3483,New,NorthEast,Residential Plot,46.4
+791,0,0,Gudavalli,1476,New,East,Residential Plot,26.07
+792,0,0,Gudavalli,2574,New,East,Residential Plot,47.19
+793,0,0,Edupugallu,3366,New,NorthEast,Residential Plot,44.88
+794,0,0,Gudavalli,1764,New,West,Residential Plot,31.16
+795,0,0,Edupugallu,2439,New,NorthEast,Residential Plot,32.52
+796,0,0,Gudavalli,1350,New,West,Residential Plot,23.85
+797,0,0,Edupugallu,1989,New,NorthEast,Residential Plot,26.52
+798,0,0,Gudavalli,1818,New,East,Residential Plot,40.4
+799,0,0,Edupugallu,8172,New,North,Residential Plot,108.0
+800,0,0,Edupugallu,1854,New,None,Residential Plot,24.72
+801,0,0,Edupugallu,12240,New,NorthEast,Residential Plot,163.0
+802,0,0,Edupugallu,1863,New,West,Residential Plot,24.84
+803,0,0,Edupugallu,4077,New,East,Residential Plot,54.36
+804,0,0,Edupugallu,2394,New,West,Residential Plot,30.59
+805,0,0,Gudavalli,2862,New,SouthWest,Residential Plot,63.6
+806,0,0,Edupugallu,2403,New,West,Residential Plot,32.04
+807,0,0,Edupugallu,2943,New,West,Residential Plot,39.24
+808,0,0,Gudavalli,1764,New,East,Residential Plot,31.16
+809,0,0,Edupugallu,2304,New,NorthWest,Residential Plot,30.72
+810,0,0,Gudavalli,1350,New,West,Residential Plot,23.85
+811,0,0,Gudavalli,2376,New,East,Residential Plot,43.56
+812,0,0,Gudavalli,1971,New,East,Residential Plot,36.13
+813,0,0,Edupugallu,2430,New,East,Residential Plot,27.84
+814,0,0,Gudavalli,1908,New,West,Residential Plot,33.7
+815,0,0,Edupugallu,4455,New,NorthEast,Residential Plot,59.4
+816,0,0,Edupugallu,2052,New,West,Residential Plot,26.22
+817,0,0,Edupugallu,2097,New,West,Residential Plot,27.96
+818,0,0,Edupugallu,2142,New,West,Residential Plot,28.56
+819,0,0,Edupugallu,2169,New,West,Residential Plot,28.92
+820,0,0,Edupugallu,2187,New,West,Residential Plot,29.16
+821,0,0,Edupugallu,2232,New,West,Residential Plot,29.76
+822,0,0,Edupugallu,2385,New,West,Residential Plot,31.8
+823,0,0,Edupugallu,2016,New,West,Residential Plot,26.88
+824,0,0,Edupugallu,2394,New,West,Residential Plot,27.12
+825,0,0,Edupugallu,3024,New,None,Residential Plot,60.48
+826,0,0,Edupugallu,1458,New,None,Residential Plot,19.44
+827,0,0,Gosala,1305,New,East,Residential Plot,17.4
+828,0,0,Edupugallu,1440,New,None,Residential Plot,19.2
+829,0,0,Gosala,1350,New,East,Residential Plot,18.0
+830,0,0,Gosala,1278,New,East,Residential Plot,17.04
+831,0,0,Gosala,1602,New,SouthEast,Residential Plot,35.6
+832,0,0,Gosala,1215,New,West,Residential Plot,15.52
+833,0,0,Gosala,1413,New,West,Residential Plot,18.05
+834,0,0,Edupugallu,173,New,West,Residential Plot,31.14
+835,0,0,Edupugallu,1512,New,West,Residential Plot,30.96
+836,0,0,Edupugallu,1512,New,West,Residential Plot,30.24
+837,0,0,Edupugallu,1503,New,West,Residential Plot,30.06
+838,0,0,Edupugallu,1467,New,West,Residential Plot,29.34
+839,0,0,Edupugallu,1458,New,West,Residential Plot,29.16
+840,0,0,Edupugallu,1440,New,West,Residential Plot,28.8
+841,0,0,Edupugallu,1395,New,None,Residential Plot,27.9
+842,0,0,Edupugallu,2340,New,East,Residential Plot,48.1
+843,0,0,Edupugallu,1908,New,East,Residential Plot,39.22
+844,0,0,Edupugallu,3150,New,West,Residential Plot,63.0
+845,0,0,Edupugallu,1710,New,West,Residential Plot,34.2
+846,0,0,Edupugallu,1395,New,West,Residential Plot,27.9
+847,0,0,Edupugallu,1458,New,West,Residential Plot,29.16
+848,0,0,Edupugallu,2088,New,East,Residential Plot,42.92
+849,0,0,Edupugallu,1953,New,East,Residential Plot,40.14
+850,0,0,Edupugallu,2142,New,East,Residential Plot,44.03
+851,0,0,Edupugallu,1890,New,West,Residential Plot,37.8
+852,0,0,Benz Circle,1647,New,East,Residential Plot,33.85
+853,0,0,Benz Circle,2142,New,None,Residential Plot,42.84
+854,0,0,Gosala,1260,New,West,Residential Plot,16.1
+855,0,0,Gosala,1251,New,West,Residential Plot,15.98
+856,0,0,Gosala,1458,New,None,Residential Plot,19.44
+857,0,0,Gudavalli,1503,New,East,Residential Plot,30.89
+858,0,0,Gosala,1278,New,None,Residential Plot,17.04
+859,0,0,Gudavalli,1647,New,East,Residential Plot,33.85
+860,0,0,Edupugallu,2142,New,East,Residential Plot,44.03
+861,0,0,Edupugallu,1395,New,West,Residential Plot,2.79
+862,0,0,Edupugallu,3942,New,NorthEast,Residential Plot,87.6
+863,0,0,Edupugallu,2943,New,West,Residential Plot,58.86
+864,0,0,Gudavalli,3222,New,West,Residential Plot,64.44
+865,0,0,Gudavalli,1647,New,West,Residential Plot,32.94
+866,0,0,Gudavalli,1962,New,East,Residential Plot,40.33
+867,0,0,Edupugallu,2169,New,West,Residential Plot,44.58
+868,0,0,Edupugallu,2385,New,West,Residential Plot,47.7
+869,0,0,Edupugallu,2088,New,None,Residential Plot,27.84
+870,0,0,Edupugallu,1953,New,None,Residential Plot,26.04
+871,0,0,Edupugallu,1809,New,None,Residential Plot,24.12
+872,0,0,Edupugallu,1773,New,None,Residential Plot,23.64
+873,0,0,Edupugallu,1557,New,None,Residential Plot,20.76
+874,0,0,Gudavalli,1557,New,East,Residential Plot,32.0
+875,0,0,Edupugallu,2394,New,None,Residential Plot,305.0
+876,0,0,Edupugallu,2403,New,None,Residential Plot,32.04
+877,0,0,Gudavalli,1782,New,West,Residential Plot,35.64
+878,0,0,Edupugallu,2943,New,West,Residential Plot,39.24
+879,0,0,Edupugallu,1674,New,West,Residential Plot,32.94
+880,0,0,Edupugallu,3213,New,NorthWest,Residential Plot,71.4
+881,0,0,Edupugallu,1602,New,West,Residential Plot,32.04
+882,0,0,Edupugallu,2142,New,West,Residential Plot,42.84
+883,0,0,Edupugallu,2142,New,None,Residential Plot,28.56
+884,0,0,Edupugallu,2169,New,None,Residential Plot,28.92
+885,0,0,Edupugallu,1503,New,West,Residential Plot,30.06
+886,0,0,Edupugallu,1899,New,East,Residential Plot,39.03
+887,0,0,Edupugallu,2187,New,None,Residential Plot,29.16
+888,0,0,Edupugallu,2232,New,West,Residential Plot,29.76
+889,0,0,Edupugallu,1746,New,West,Residential Plot,35.89
+890,0,0,Edupugallu,1746,New,East,Residential Plot,35.89
+891,0,0,Edupugallu,1809,New,East,Residential Plot,37.18
+892,0,0,Edupugallu,2520,New,East,Residential Plot,51.8
+893,0,0,Edupugallu,1863,New,None,Residential Plot,71.59
+894,0,0,Edupugallu,1755,New,None,Residential Plot,35.89
+895,0,0,Gudavalli,1719,New,SouthWest,Residential Plot,31.51
+896,0,0,Gosala,1278,New,East,Residential Plot,17.04
+897,0,0,Gosala,1071,New,West,Residential Plot,16.33
+898,0,0,Gosala,1458,New,East,Residential Plot,19.56
+899,0,0,Gosala,1278,New,West,Residential Plot,16.33
+900,0,0,Vijayawada Airport Road,990,New,East,Residential Plot,8.21
+901,0,0,Telaprolu,972,New,East,Residential Plot,8.1
+902,0,0,Kankipadu,1503,New,East,Residential Plot,20.87
+903,0,0,Kankipadu,1503,New,None,Residential Plot,29.0
+904,0,0,Kankipadu,1503,New,NorthEast,Residential Plot,54.0
+905,0,0,AGIRIPALLI,1350,New,East,Residential Plot,6.0
+906,0,0,Kankipadu,1683,New,East,Residential Plot,27.3
+907,0,0,Vijayawada Nuzvidu Road,1350,New,None,Residential Plot,5.99
+908,2,2,Nunna,1350,Ready to move,None,Residential Plot,60.0
+909,4,4,Nunna,1152,Ready to move,East,Residential Plot,79.5
+910,2,20232,Nunna,1152,Under Construction,None,Residential Plot,55.0
+911,2,2,Ibrahimpatnam,1215,Ready to move,None,Residential Plot,36.45
+912,2,2,Nunna,1170,Ready to move,None,Residential Plot,55.0
+913,3,3,Ibrahimpatnam,1625,Ready to move,None,Residential Plot,48.75
+914,3,3,Ibrahimpatnam,1715,Ready to move,None,Residential Plot,51.45
+915,3,3,Ibrahimpatnam,1625,Ready to move,None,Independent House,48.75
+916,2,2,Ibrahimpatnam,1350,Ready to move,None,Independent House,75.0
+917,0,0,Kankipadu,1494,New,East,Independent House,16.5
+918,0,0,Nuzvid Road,20000,Resale,East,Apartment,26.0
+919,0,0,Gosala,1350,New,None,Independent House,18.75
+920,0,0,Kanchikacherla,1017,New,None,Apartment,5.0
+921,0,0,Kanchikacherla,1332,New,None,Apartment,8.88
+922,0,0,Kanchikacherla,1017,New,East,Apartment,4.0
+923,0,0,Kandrika,2400,Resale,None,Independent House,40.2
+924,0,0,Gosala,1450,New,None,Residential Plot,19.98
+925,0,0,Kanchikacherla,1017,New,None,Residential Plot,2.99
+926,0,0,Penamaluru,1359,New,None,Residential Plot,17.5
+927,2,20202,Kankipadu,1350,Under Construction,None,Residential Plot,33.0
+928,3,2,Ayyappa Nagar,1530,Ready to move,None,Residential Plot,69.0
+929,1,1,Gollapudi,738,Ready to move,None,Residential Plot,45.0
+930,2,2,Gollapudi,1534,Ready to move,None,Residential Plot,61.36
+931,2,2,Gannavaram,1125,Ready to move,None,Residential Plot,28.0
+932,2,2,Gannavaram,1030,Ready to move,None,Residential Plot,29.0
+933,2,2,Patamata,820,Ready to move,None,Residential Plot,37.0
+934,4,3,Gannavaram,2430,Ready to move,None,Independent House,100.0
+935,3,3,Gannavaram,1719,Ready to move,None,Apartment,55.0
+936,2,2,Gannavaram,1215,Ready to move,None,Apartment,40.0
+937,3,3,Gollapudi1,1500,Ready to move,None,Studio Apartment,60.0
+938,2,20222,Kesarapalli,1044,Under Construction,None,Apartment,43.85
+939,2,2,Gollapudi,1250,Ready to move,None,Apartment,50.0
+940,2,2,Ibrahimpatnam,1010,Ready to move,None,Apartment,35.0
+941,3,3,Nunna,1250,Under Construction,None,Apartment,60.5
+942,2,2,PNT Colony,1200,Under Construction,None,Apartment,45.0
+943,2,2,PNT Colony,1200,Under Construction,None,Apartment,45.0
+944,2,2,PNT Colony,1200,Under Construction,None,Apartment,45.0
+945,2,2,PNT Colony,1200,Under Construction,None,Apartment,45.0
+946,2,2,Ibrahimpatnam,1250,Ready to move,None,Apartment,29.0
+947,2,2,Poranki,1000,Ready to move,None,Apartment,420.0
+948,3,3,Gunadala,1852,Ready to move,None,Apartment,69.5
+949,2,2,Poranki,800,Ready to move,None,Independent Floor,55.0
+950,2,2,Poranki,1200,Ready to move,None,Apartment,35.0
+951,2,2,Kanuru,1320,Ready to move,None,Apartment,48.0
+952,7,7,Ashok Nagar,7500,Ready to move,None,Apartment,400.0
+953,2,2,Satyaranayana Puram,900,Ready to move,None,Apartment,29.0
+954,3,3,Kankipadu,1500,Ready to move,None,Apartment,52.0
+955,2,2,Poranki,800,Ready to move,East,Independent House,32.0
+956,2,2,Kankipadu,1100,Under Construction,East,Apartment,39.0
+957,3,3,Nunna,1250,Under Construction,None,Independent Floor,60.5
+958,1,1,Gannavaram,150,Ready to move,None,Apartment,14.0
+959,2,2,Vaddeswaram,1200,Ready to move,None,Apartment,45.0
+960,2,2,Benz Circle,1150,Under Construction,None,Villa,45.0
+961,2,2,Gannavaram,1266,Ready to move,None,Apartment,45.57
+962,4,4,Gannavaram,2200,Ready to move,None,Apartment,90.0
+963,2,2,Kanuru,1260,Ready to move,East,Apartment,57.5
+964,3,20223,Ramavarapadu,3433,Under Construction,None,Independent House,210.0
+965,2,2,Nunna,1200,Under Construction,None,Independent Floor,53.0
+966,3,3,Tadepalligudem,1402,Ready to move,None,Independent House,66.0
+967,2,2,Vijayawada Guntur Highway,1150,Ready to move,None,Apartment,33.0
+968,3,3,Kanuru,2000,Ready to move,None,Independent House,84.0
+969,2,2,Ramavarapadu Ring,1250,Ready to move,None,Apartment,62.0
+970,2,2,Kesarapalli,1266,Ready to move,None,Apartment,43.67
+971,1,2,Ramalingeswara Nagar,400,Ready to move,None,Independent House,37.0
+972,2,2,Kankipadu,1200,Ready to move,None,Villa,35.0
+973,2,2,Telaprolu,1289,Ready to move,None,Independent House,38.5
+974,7,9,Rama Krishna Puram,4000,Ready to move,None,Apartment,160.0
+975,2,2,Gandhi Nagar,900,Ready to move,None,Apartment,47.0
+976,2,2,Nandigama,2000,Ready to move,None,Apartment,75.0
+977,3,2,Poranki,1585,Ready to move,None,Apartment,72.0
+978,2,2,Gannavaram,1000,Ready to move,None,Apartment,30.0
+979,3,3,Sri Ramachandra Nagar,1500,Ready to move,None,Independent House,95.0
+980,3,3,Mangalagiri,1853,Ready to move,None,Apartment,89.9
+981,0,0,Telaprolu,1908,Resale,West,Apartment,8.87
+982,0,0,AGIRIPALLI,900,New,East,Independent House,3.49
+983,0,0,Srinivasa Nagar Bank Colony,3924,Resale,None,Independent House,459.0
+984,0,0,chinnakakani,3366,New,None,Independent House,82.3
+985,0,0,Kankipadu,1881,New,None,Apartment,45.0
+986,0,0,Kankipadu,1098,New,None,Apartment,34.0
+987,0,0,Kankipadu,2430,New,None,Apartment,15.0
+988,0,0,Patamata,999,New,None,Apartment,84.0
+989,0,0,Poranki,9585,New,None,Residential Plot,270.0
+990,0,0,Patamata,1611,New,None,Residential Plot,173.0
+991,0,0,Patamata,2376,New,None,Residential Plot,257.0
+992,0,0,Kanuru,2700,New,None,Residential Plot,340.0
+993,0,0,Kanuru,7092,New,None,Residential Plot,300.0
+994,0,0,Gollapudi,3015,New,None,Residential Plot,134.0
+995,0,0,Ajit Singh Nagar,1800,New,None,Residential Plot,65.0
+996,0,0,Gannavaram,2394,New,None,Residential Plot,33.0
+997,0,0,Bhavanipuram,837,New,None,Residential Plot,60.0
+998,0,0,MylavaramKuntamukkalaVellaturuVijayawada Road,9117,New,None,Residential Plot,170.0
+999,0,0,Mangalagiri,4320,New,None,Residential Plot,140.0
+1000,0,0,Mangalagiri,3267,New,None,Residential Plot,76.0
+1001,0,0,kunchanapalli,11394,New,None,Residential Plot,505.99999999999994
+1002,0,0,krishnalanka,909,New,None,Residential Plot,35.0
+1003,0,0,LIC Colony,2601,New,None,Residential Plot,250.0
+1004,0,0,Gollapudi,1620,New,None,Residential Plot,72.0
+1005,0,0,Gollapudi,2700,New,None,Residential Plot,100.0
+1006,0,0,Andhra Prabha Colony Road,1314,Resale,West,Residential Plot,45.26
+1007,0,0,Devi Nagar,3996,Resale,East,Residential Plot,165.0
+1008,0,0,Edupugallu,1728,Resale,East,Residential Plot,30.72
+1009,0,0,Benz Circle,25,New,None,Residential Plot,8.0
+1010,0,0,Kankipadu,1287,Resale,None,Residential Plot,14.0
+1011,0,0,Auto Nagar,2060,Resale,None,Residential Plot,85.0
+1012,0,0,Kankipadu,9000,Resale,None,Residential Plot,25.0
+1013,0,0,Kanchikacherla,300,New,None,Residential Plot,24.0
+1014,0,0,Tadigadapa,4500,Resale,None,Residential Plot,65.0
+1015,0,0,Kanchikacherla,1728,Resale,None,Residential Plot,4.0
+1016,0,0,Pedaogirala,1350,New,East,Residential Plot,15.0
+1017,0,0,Gannavaram,1320,Resale,North,Residential Plot,30.93
+1018,0,0,Edupugallu,2250,Resale,None,Residential Plot,40.0
+1019,0,0,Rajarajeswari Peta,1080,Resale,NorthWest,Residential Plot,19.2
+1020,0,0,MylavaramKuntamukkalaVellaturuVijayawada Road,9504,New,East,Residential Plot,10.0
+1021,0,0,Vidhyadharpuram,1872,Resale,NorthWest,Residential Plot,120.0
+1022,0,0,Auto Nagar,2040,Resale,West,Residential Plot,85.8
+1023,0,0,Auto Nagar,2040,Resale,West,Residential Plot,85.8
+1024,0,0,Auto Nagar,2040,Resale,West,Residential Plot,85.8
+1025,0,0,Auto Nagar,2040,Resale,West,Residential Plot,85.8
+1026,0,0,Vijayawada Machilipatnam Road,2394,New,East,Residential Plot,19.95
